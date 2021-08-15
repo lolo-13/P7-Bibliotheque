@@ -10,8 +10,11 @@ PostgreSQL 12
 **Déploiement**
 ---------------
 Cloner les 3 projets sous GitHub:
+
  -https://github.com/lolo-13/api-biblio
+ 
  -https://github.com/lolo-13/client-ui
+ 
  -https://github.com/lolo-13/batch
 
 Importer les projets dans l'IDE ( projet développé avec IntelliJ)
