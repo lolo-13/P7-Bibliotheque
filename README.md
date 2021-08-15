@@ -9,7 +9,10 @@ PostgreSQL 12
 
 **Déploiement**
 ---------------
-Cloner les 3 projets sous GitHub
+Cloner les 3 projets sous GitHub:
+ -https://github.com/lolo-13/api-biblio
+ -https://github.com/lolo-13/client-ui
+ -https://github.com/lolo-13/batch
 
 Importer les projets dans l'IDE ( projet développé avec IntelliJ)
 
@@ -23,12 +26,14 @@ Utiliser le script du dump pour créer les tables puis le script du jeu de donn�
 
 Soit demarrer le serveur tomcat sur l'IDE pour les 3 projets, soit copier les fichiers war de l'application depuis le dossier target dans le dossier webapps du répertoire Tomcat, puis lancer le serveur Tomcat
 
-Puis se rendre via le navigateur sur l'adresse http://localhost:portduserveur/lade-webapp/Accueil
+Puis se rendre via le navigateur sur l'adresse http://localhost:9091
 
 L'application est prète à fonctionner avec 3 utilisateurs :
+
+laurie-test@yopmail.com mot de passe 123 pour le rôle d'utilisateur connecté
+
+Et pour les tests Postman et Batch:
 
 admin mot de passe admin pour le rôle de l'admin
 
 biblio@gmail.com mot de passe 123 pour le rôle d'un employé
-
-laurie-test@yopmail.com mot de passe 123 pour le rôle d'utilisateur connecté
