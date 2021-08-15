@@ -49,7 +49,7 @@ INSERT INTO public.users(id_user, email, firstname, name, password, id_library, 
 VALUES 
 (nextval('users_id_user_seq'), 'admin@gmail.com', 'admin', 'admin', '$2a$10$nRv5ThpdgnCS0sJGJuBrhuBesmOscZ.RvIfD8ZksF/H4isb80IijK', NULL, 1),
 (nextval('users_id_user_seq'), 'biblio@gmail.com', 'test', 'Test', '$2a$10$t98QkYmCdcBQNYz0dshBDu8L.IL4YlQyV8vi6EGRF/Ce60vcOxIUe', 1, 3),
-(nextval('users_id_user_seq'), 'laurie.compain@gmail.com', 'Laurie', 'Compain', '$2a$10$Oeu37tH0xg7RlnsCZ6maY.uhjbxQ1hNx4LXADxZNpyAyMP3BFLSLO', 1, 2);
+(nextval('users_id_user_seq'), 'laurie-test@yopmail.com', 'Laurie', 'Compain', '$2a$10$Oeu37tH0xg7RlnsCZ6maY.uhjbxQ1hNx4LXADxZNpyAyMP3BFLSLO', 1, 2);
 
 INSERT INTO public.roles(id_role, designation)
 VALUES 
