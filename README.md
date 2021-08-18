@@ -37,6 +37,4 @@ laurie-test@yopmail.com mot de passe 123 pour le rôle d'utilisateur connecté
 
 Et pour les tests Postman et Batch:
 
-admin mot de passe admin pour le rôle de l'admin
-
 biblio@gmail.com mot de passe 123 pour le rôle d'un employé
