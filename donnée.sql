@@ -60,7 +60,7 @@ VALUES
 INSERT INTO public.borrowings(id_borrowing, borrowing_date, borrowing_limit_date, renewal, returned, id_copy, id_user)
 VALUES 
 (nextval('borrowings_id_borrowing_seq'), '10/06/2021', '08/07/2021', FALSE, FALSE, 16, 2),
-(nextval('borrowings_id_borrowing_seq'), '12/05/2021', '09/06/2021', FALSE, FALSE, 17, 2),
+(nextval('borrowings_id_borrowing_seq'), '12/07/2021', '09/08/2021', FALSE, FALSE, 17, 2),
 (nextval('borrowings_id_borrowing_seq'), '20/04/2021', '15/06/2021', TRUE, FALSE, 18, 2),
 (nextval('borrowings_id_borrowing_seq'), '03/06/2021', '01/07/2021', FALSE, FALSE, 19, 2),
 (nextval('borrowings_id_borrowing_seq'), '02/01/2021', '30/01/2021', FALSE, TRUE, 20, 2);
