@@ -31,7 +31,7 @@ Soit demarrer le serveur tomcat sur l'IDE pour les 3 projets, soit copier les fi
 
 Puis se rendre via le navigateur sur l'adresse http://localhost:9091
 
-L'application est prète à fonctionner avec 3 utilisateurs :
+L'application est prète à fonctionner avec 2 utilisateurs :
 
 laurie-test@yopmail.com mot de passe 123 pour le rôle d'utilisateur connecté
 
